@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FlaUI.Desktop.Automation.Core/FlaUI.Desktop.Automation.Core.csproj" />
+  <Project Path="FlaUI.Desktop.Automation.Tests/FlaUI.Desktop.Automation.Tests.csproj" Id="a7a28ba9-44cb-4b1b-a49f-94ece4436f8f" />
+</Solution>

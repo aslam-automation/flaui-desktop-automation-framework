@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aslam\\Desktop\\FlaUI.Desktop.Automation.Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9D46A8-8C94-455C-7A88-2750D3695DFE}|FlaUI.Desktop.Automation.Core\\FlaUI.Desktop.Automation.Core.csproj|d:\\aslam\\desktop\\flaui.desktop.automation.framework\\flaui.desktop.automation.core\\flaui.desktop.automation.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C9D46A8-8C94-455C-7A88-2750D3695DFE}|FlaUI.Desktop.Automation.Core\\FlaUI.Desktop.Automation.Core.csproj|solutionrelative:flaui.desktop.automation.core\\flaui.desktop.automation.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlaUI.Desktop.Automation.Core",
+              "DocumentMoniker": "D:\\Aslam\\Desktop\\FlaUI.Desktop.Automation.Framework\\FlaUI.Desktop.Automation.Core\\FlaUI.Desktop.Automation.Core.csproj",
+              "RelativeDocumentMoniker": "FlaUI.Desktop.Automation.Core\\FlaUI.Desktop.Automation.Core.csproj",
+              "ToolTip": "D:\\Aslam\\Desktop\\FlaUI.Desktop.Automation.Framework\\FlaUI.Desktop.Automation.Core\\FlaUI.Desktop.Automation.Core.csproj",
+              "RelativeToolTip": "FlaUI.Desktop.Automation.Core\\FlaUI.Desktop.Automation.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T10:48:15.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
