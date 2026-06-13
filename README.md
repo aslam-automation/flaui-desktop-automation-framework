@@ -18,7 +18,7 @@ A scalable **Desktop UI Automation Framework** built with **.NET 10, FlaUI UIA3,
 - Screenshot capture on failure/success
 - Extensible reporting support
 - Clean separation of Core & Test layers
-- Easy integration with CI/CD pipelines
+- Easy integration with CI pipelines
 
 ---
 
@@ -138,7 +138,7 @@ Example:
 
 ---
 
-## 🔄 CI/CD Pipeline (GitHub Actions)
+## 🔄 Sample CI Pipeline (GitHub Actions)
 
 Create:
 
